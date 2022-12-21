@@ -166,7 +166,7 @@ body {
     background: linear-gradient(180deg, #8FCFD7 0%, #46A3AE 100%);
     box-shadow: 4px 7px 10px rgba(0, 0, 0, 0.16);
     border-radius: 6px;
-    padding: 24px 65px;
+    padding: 24px 75px;
     color: #FFFDFA;
     font-size: 18px;
 }
@@ -688,7 +688,7 @@ font-weight: 500;
     }
 
     .header h1 img {
-        width: 90%;
+        width: 180px;
     }
 
     .nav_box li {
@@ -1011,7 +1011,7 @@ font-weight: 500;
 }
 
 .support_member_list_inner {
-    width: 94%;
+    width: 90%;
     margin: 0 auto;
 }
 
@@ -1165,12 +1165,12 @@ font-weight: 500;
 }
 
 .shop_img {
-    width: 94%;
+    width: 100%;
     margin: 0 auto;
 }
 
 .hajimedou_logo {
-    width: 60%;
+    width: 160px;
     margin: 24px auto 0 auto; 
 }
 
@@ -1181,6 +1181,10 @@ font-weight: 500;
 #footer {
     max-width: 94%;
     padding-top: 40px;
+}
+
+.footer_h1 {
+    width: 180px;
 }
 
 .footer_nav {
