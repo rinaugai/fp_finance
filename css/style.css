@@ -902,6 +902,16 @@ font-weight: 500;
     margin: 0 auto;
 }
 
+.main_message {
+    font-size: 38px;
+    line-height: 60px;
+}
+
+.sub_message {
+    line-height: 30px;
+    margin-top: 16px;
+}
+
 #service {
     max-width: 94%;
     padding-top: 64px;
