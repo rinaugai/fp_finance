@@ -849,6 +849,10 @@ font-weight: 500;
     background: #ffffff;
 }
 
+.sp_nav nav {
+    padding-bottom: 64px;
+}
+
 .sp_nav ul{
     height: 48%;
     display: flex;
@@ -1196,6 +1200,9 @@ font-weight: 500;
     padding-top: 80px;
 }
 
+.footer_h1 {
+    width: 240px;
+}
 
 .footer_nav {
     max-width: 60%;
