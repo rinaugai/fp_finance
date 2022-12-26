@@ -594,6 +594,10 @@ font-weight: 500;
     width: 40%;
 }
 
+.hajimedou_logo {
+    width: 180px;
+}
+
 .hajimedou_access {
     display: flex;
     align-items: center;
@@ -1180,7 +1184,6 @@ font-weight: 500;
 }
 
 .hajimedou_logo {
-    width: 160px;
     margin: 24px auto 0 auto; 
 }
 
